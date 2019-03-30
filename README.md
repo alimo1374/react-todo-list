@@ -1,4 +1,6 @@
-https://todo-list-ma.netlify.com/
+## Live demo
+https://todo-list-ma.netlify.com/<br/>
+## Info
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
